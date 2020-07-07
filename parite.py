@@ -4,6 +4,7 @@
 
 def main():
 	print(" Thank you God ! ")
+	print("I pray for my big dream")
     
 
 if __name__ == "__main__" :
